@@ -1,3 +1,0 @@
-/.ipynb_checkpoints/
-/project_learning_with_teacher_2
-/project_learning_with_teacher_3
